@@ -517,6 +517,11 @@ h3.date{
 	.description img{
 	width: 100%;
 }
+
+.projects .content .description{
+	/*display: none;*/
+	width: 100%;
+}
 }
 
 .blogpost{
@@ -531,6 +536,10 @@ h3.date{
 
 .blogpage{
 	overflow: scroll;
+}
+
+.blogpost img{
+	width: 90%;
 }
 
 .backarrow{
